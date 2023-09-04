@@ -1,7 +1,4 @@
-import sys 
-
 def solution(x, y):
-    # Your code here
     x = int(x)
     y = int(y)
     
